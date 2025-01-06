@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Digital Marketing Assistant</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1><i class="fas fa-robot"></i> Digital Marketing Assistant</h1>
+            <div class="header-actions">
+                <button id="clear-chat" title="Clear Chat"><i class="fas fa-trash"></i></button>
+                <button id="export-chat" title="Export Chat"><i class="fas fa-download"></i></button>
+            </div>
+        </div>
+        
+        <div class="features-bar">
+            <button class="feature-btn" data-topic="seo">SEO</button>
+            <button class="feature-btn" data-topic="content">Content</button>
+            <button class="feature-btn" data-topic="social">Social</button>
+            <button class="feature-btn" data-topic="email">Email</button>
+            <button class="feature-btn" data-topic="analytics">Analytics</button>
+        </div>
+
+        <div id="chat-box" class="chat-box">
+            <div class="welcome-message">
+                <h2>👋 Welcome to your Digital Marketing Assistant!</h2>
+                <p>I can help you with:</p>
+                <ul>
+                    <li>SEO strategies and optimization</li>
+                    <li>Content marketing tips</li>
+                    <li>Social media marketing</li>
+                    <li>Email marketing campaigns</li>
+                    <li>Marketing analytics and metrics</li>
+                </ul>
+                <p>How can I assist you today?</p>
+            </div>
+        </div>
+
+        <div class="typing-indicator" id="typing-indicator">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Ask me anything about digital marketing...">
+            <button id="send-button">
+                <i class="fas fa-paper-plane"></i>
+            </button>
+        </div>
+    </div>
+
+    <div id="tooltip" class="tooltip"></div>
+    
+    <script src="../static/script.js"></script>
+</body>
+</html>
