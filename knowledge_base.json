@@ -6,10 +6,11 @@
         },
         {
             "question": "how can i improve my website seo",
-            "answer": [
-                "To improve your website's SEO:\n1. Conduct thorough keyword research\n2. Create high-quality, relevant content\n3. Optimize meta titles and descriptions\n4. Improve website loading speed\n5. Ensure mobile responsiveness\n6. Build quality backlinks\n7. Use internal linking\n8. Optimize images with alt text",
-                "Key strategies for SEO improvement include:\n1. Technical optimization (site speed, mobile-friendliness)\n2. On-page SEO (quality content, meta tags, headers)\n3. Off-page SEO (backlink building, social signals)\n4. Local SEO (Google My Business, local citations)\n5. Regular content updates\n6. User experience optimization"
-            ]
+            "answer": "To improve your website's SEO:\n1. Conduct thorough keyword research\n2. Create high-quality, relevant content\n3. Optimize meta titles and descriptions\n4. Improve website loading speed\n5. Ensure mobile responsiveness\n6. Build quality backlinks\n7. Use internal linking\n8. Optimize images with alt text"
+        },
+        {
+            "question": "what are the most important seo ranking factors",
+            "answer": "The most crucial SEO ranking factors include:\n1. High-quality, relevant content\n2. Mobile-first optimization\n3. Page loading speed\n4. HTTPS security\n5. Quality backlinks\n6. User experience signals\n7. Core Web Vitals\n8. Domain authority\n9. On-page optimization\n10. Technical SEO elements"
         }
     ],
     "content_marketing": [
@@ -20,6 +21,10 @@
         {
             "question": "what types of content should i create",
             "answer": "Effective content types include:\n1. Blog posts and articles\n2. Videos and webinars\n3. Infographics and visual content\n4. Podcasts\n5. eBooks and whitepapers\n6. Case studies\n7. Social media content\n8. Email newsletters\n\nChoose formats that best resonate with your target audience and align with your marketing goals."
+        },
+        {
+            "question": "how do i create a content calendar",
+            "answer": "To create an effective content calendar:\n1. Define your content goals\n2. Identify key themes and topics\n3. Research seasonal trends\n4. Plan content types and formats\n5. Set publication frequencies\n6. Assign team responsibilities\n7. Include distribution channels\n8. Track performance metrics"
         }
     ],
     "social_media": [
@@ -30,6 +35,10 @@
         {
             "question": "which social media platforms should i use",
             "answer": "The best social media platforms depend on your target audience and business type:\n- LinkedIn: B2B, professional services\n- Instagram: Visual products, lifestyle brands\n- Facebook: Wide demographic range, community building\n- Twitter: News, customer service, thought leadership\n- TikTok: Young audience, creative content\n- Pinterest: DIY, fashion, home décor\n\nFocus on platforms where your target audience is most active."
+        },
+        {
+            "question": "what is the best time to post on social media",
+            "answer": "Optimal posting times vary by platform:\n- Instagram: Tuesday to Friday, 10 AM to 3 PM\n- LinkedIn: Tuesday to Thursday, 9 AM to noon\n- Facebook: Tuesday to Thursday, 8 AM to 4 PM\n- Twitter: Monday to Friday, 8 AM to 4 PM\n- TikTok: Tuesday to Sunday, 2 PM to 9 PM\n\nHowever, analyze your specific audience insights for best results."
         }
     ],
     "email_marketing": [
@@ -40,6 +49,10 @@
         {
             "question": "how can i improve email open rates",
             "answer": "To improve email open rates:\n1. Write compelling subject lines\n2. Segment your email list\n3. Personalize content\n4. Test sending times\n5. Clean your email list regularly\n6. Use a recognizable sender name\n7. Optimize for mobile devices\n8. A/B test your emails"
+        },
+        {
+            "question": "what are email marketing best practices",
+            "answer": "Key email marketing best practices:\n1. Build organic email lists\n2. Segment your audience\n3. Personalize content\n4. Use compelling subject lines\n5. Optimize for mobile\n6. A/B test campaigns\n7. Monitor deliverability\n8. Follow GDPR and CAN-SPAM rules\n9. Clean lists regularly\n10. Track and analyze metrics"
         }
     ],
     "analytics": [
@@ -50,6 +63,10 @@
         {
             "question": "how do i measure roi",
             "answer": "To measure marketing ROI:\n1. Track total marketing spending\n2. Monitor revenue generated from marketing activities\n3. Calculate: ROI = (Revenue - Marketing Cost) / Marketing Cost × 100\n4. Consider both direct and indirect returns\n5. Use attribution modeling for multiple channels\n6. Account for lifetime customer value"
+        },
+        {
+            "question": "how do i set up google analytics 4",
+            "answer": "To set up Google Analytics 4:\n1. Create a Google Analytics account\n2. Set up a new property\n3. Add the GA4 tracking code to your website\n4. Configure data streams\n5. Set up conversion events\n6. Create custom dimensions\n7. Configure audiences\n8. Link to Google Ads (if applicable)\n9. Set up enhanced measurement\n10. Verify data collection"
         }
     ]
 }

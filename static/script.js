@@ -148,11 +148,11 @@ featureButtons.forEach(button => {
     button.addEventListener('click', () => {
         const topic = button.dataset.topic;
         const questions = {
-            seo: "What are the best SEO practices for 2024?",
-            content: "How do I create an effective content strategy?",
-            social: "Which social media platforms should I focus on?",
-            email: "How can I improve my email marketing campaigns?",
-            analytics: "What are the most important marketing metrics to track?"
+            seo: "what are the most important seo ranking factors",
+            content: "what types of content should i create",
+            social: "what is the best time to post on social media",
+            email: "what are email marketing best practices",
+            analytics: "what marketing metrics should i track"
         };
         userInput.value = questions[topic];
         userInput.focus();
